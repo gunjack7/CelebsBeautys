@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://urlzs.com/UjWsN`
+					`https://openinapp.co/esxi4`
 				}`,
 			},
 		};
